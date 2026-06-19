@@ -1,0 +1,6 @@
+{
+  "name": "Password Book",
+  "description": "Password Book - A secure password book that stores, organizes, and syncs your accounts directly to your own Google Drive inside an Excel-compatible Google Sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
